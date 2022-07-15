@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/telemaque/static/css/main.d4a2fcf7.css",
+    "main.js": "/telemaque/static/js/main.1e5d8a7e.js",
+    "static/js/787.11093f76.chunk.js": "/telemaque/static/js/787.11093f76.chunk.js",
+    "static/media/collectif_NB.png": "/telemaque/static/media/collectif_NB.729dc8a81af4526c44d4.png",
+    "static/media/tribune.png": "/telemaque/static/media/tribune.7def48a53e9d857a89e0.png",
+    "static/media/rencontre.png": "/telemaque/static/media/rencontre.d11e7f2915cdb846d1b1.png",
+    "static/media/livre_telemaque.png": "/telemaque/static/media/livre_telemaque.c9c22ff8cdcfceca3306.png",
+    "index.html": "/telemaque/index.html",
+    "main.d4a2fcf7.css.map": "/telemaque/static/css/main.d4a2fcf7.css.map",
+    "main.1e5d8a7e.js.map": "/telemaque/static/js/main.1e5d8a7e.js.map",
+    "787.11093f76.chunk.js.map": "/telemaque/static/js/787.11093f76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4a2fcf7.css",
+    "static/js/main.1e5d8a7e.js"
+  ]
+}
