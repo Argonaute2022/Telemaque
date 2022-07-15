@@ -1,0 +1,16 @@
+.banner2 {
+	display: block;
+	background-color: #64FFA2;
+	color: #FFF;
+	min-height: 20vh;
+	width: 98vw;
+	margin-top:100px;
+}
+
+.bannerItems2 {
+	
+	font-family: 'Oswald', sans serif;
+	font-size: 30px;
+	padding: 50px 50px;
+	text-align: end;
+}
