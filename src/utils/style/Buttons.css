@@ -28,6 +28,7 @@
 	width: 0;
 	height: 100%;
 	background: #FF6464;
+	color: #fff;
 	border-radius: 10px;
 
 	transition: all .35s;
